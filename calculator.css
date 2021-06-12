@@ -1,0 +1,43 @@
+table,tr,td {
+border: 2px solid rgb(224, 153, 46);
+}
+.title{
+    text-align: center;
+    box-sizing: border-box;
+}
+table{
+    height: 330px;
+    width: 270px;
+    margin: auto;
+    border-radius:9px;
+    box-sizing: border-box;
+}
+#res{
+    background-color:darkgrey ; 
+}
+tr{
+    background-color: blueviolet;
+}
+td{
+    font-size: xx-large;
+    font-weight: bold;
+}
+input[type="button"]:hover{
+    color: chocolate;
+}
+input[type="button"]{
+width: 100%;
+height: 100%;
+color: black;
+border: 2px solid black;
+font-size: x-large;
+border-radius: 30px;
+}
+input[type="text"]{
+    width: 100%;
+    height: 100%;
+    color: rgb(22, 20, 8);
+    border: 2px solid black;
+    font-size: x-large;
+    font-weight: bold;
+    }
